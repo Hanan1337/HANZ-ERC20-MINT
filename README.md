@@ -1,1 +1,1 @@
-# HANZ-ERC20-MINT
+# Mint 100 ERC-20 Tokens
